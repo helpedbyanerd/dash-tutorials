@@ -1,4 +1,3 @@
-import pandas as pd
 import dash_mantine_components as dmc
 from dash import html
 
